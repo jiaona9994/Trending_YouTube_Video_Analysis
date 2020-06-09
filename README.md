@@ -11,4 +11,5 @@ I plan to use the dataset to analyze the composition and popularity associated w
 
 The dataset I use for this project is “Trending YouTube Video Statistics” from Kaggle, which includes months of data on daily trending YouTube videos for the USA, Great Britain, Germany, Canada, France, Russia, Mexico, South Korea, Japan, and India regions, with up to 200 listed trending videos per day. For language friendly purposes, I only use data from the USA, Great Britain, Germany, Canada, France, and Mexico.  For each region’s data, it includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count. I employ a number of techniques from the Scikit/Learn, Numpy, Pandas, Matplotlib toolkit in Python to analyze the dataset at hand.
 
+Please download the dataset here! 
 https://www.kaggle.com/datasnaek/youtube-new
